@@ -1,0 +1,36 @@
+iframe
+{
+   max-width: 100%;
+}
+body 
+{ 
+text-align: left; 
+background-color: beige; 
+font-family: Arial, sans-serif;
+margin: 10%;
+}
+h1 
+{
+text-align: center; 
+font: bold 1.5em "Marko One",Georgia, seriff;
+color: olive;
+text-shadow: .05em .05em .1em lightslategray;
+}
+
+img 
+{
+padding-top: 28px;
+border:5px solid #e26b34;
+margin:5px;
+}
+h2 
+{
+font: bold 1.5em "Marko One",Georgia, seriff;
+font-family: 'Montserrat';
+color: red;
+text-shadow: .05em .05em .1em lightslategray;
+}
+p 
+{
+font-family: 'Roboto', sans-serif;
+}
